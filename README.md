@@ -34,7 +34,7 @@ Our approach of predictive modeling and analysis was established on the large pr
 
 ## Approach
 
-Schematic illustration of our workflow for deep learning-based stage-stratified prediction of probabilities of time to AD conversion.
+Schematic illustration of our workflow for deep learning-based...
 
 ![Fig1](./img/Fig1.jpg)
 
