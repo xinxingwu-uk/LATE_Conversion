@@ -3,10 +3,7 @@
 Alzheimer's & Dementia: Translational Research & Clinical Interventions, 2022
 
 ## Table of contents
-* [Background](#Background)
-* [Methods](#Methods)
-* [Results](#Results)
-* [Conclusion](#Conclusion)
+* [Abstract](#Abstract)
 * [Prerequisites](#Prerequisites)
 * [Datasets](#Datasets)
 * [Approach](#approach)
