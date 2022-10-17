@@ -1,5 +1,6 @@
 # Deep learning algorithm reveals probabilities of stage-specific time to conversion in individuals with neurodegenerative disease LATE (Alzheimer's & Dementia: Translational Research & Clinical Interventions 2022)
 
+Codes are here
 ---
 
 ## Table of contents
@@ -31,7 +32,7 @@ Our approach of predictive modeling and analysis was established on the large pr
 
 ### Preprocessing
 
-![Fig1](./img/Fig5.jpg)
+![Fig1](./img/Fig5.jpeg)
 
 
 ## Approach
