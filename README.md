@@ -32,7 +32,7 @@ Our approach of predictive modeling and analysis was established on the large pr
 
 ### Preprocessing
 
-![Fig1](./img/Fig5.jpg)
+![Fig1](./img/5.jpg)
 
 
 ## Approach
