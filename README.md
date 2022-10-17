@@ -1,6 +1,5 @@
 # Deep learning algorithm reveals probabilities of stage-specific time to conversion in individuals with neurodegenerative disease LATE (Alzheimer's & Dementia: Translational Research & Clinical Interventions 2022)
 
-The codes will come soon...
 ---
 
 ## Table of contents
@@ -30,9 +29,14 @@ JupyterLab 3.2.9
 
 Our approach of predictive modeling and analysis was established on the large prospective cohort, the National Alzheimers Coordinating Center (NACC) with subjects’ multiple-visit information between 2005 and 2020, which can be accessed upon request and approval by the data owner via the link https://naccdata.org/.
 
+### Preprocessing
+
+![Fig1](./img/Fig5.jpg)
+
+
 ## Approach
 
-Schematic illustration of our workflow for deep learning-based...
+Schematic illustration of our workflow for deep learning-based algorithm in analyzing the probabilities of stage-specific time to conversion in individuals with neurodegenerative disease LATE
 
 ![Fig1](./img/Fig1.jpg)
 
@@ -41,6 +45,9 @@ Some resutls:
 ![Fig1](./img/Fig2.jpg)
 
 ![Fig1](./img/Fig3.jpg)
+
+![Fig1](./img/Fig4.jpg)
+
 
 
 ## HowtoCite
