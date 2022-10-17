@@ -52,7 +52,7 @@ Xinxing Wu, Chong Peng, Peter T. Nelson, and Qiang Cheng. Deep learning algorith
 ---
 ## History
 
-* Version 1.0 (X. XX, 2022)
+* Version 1.0 (October, 2022)
 
 
 ---
