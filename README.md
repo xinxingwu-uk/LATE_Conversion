@@ -16,17 +16,16 @@ Dementia patients may present with different symptoms, progress at different rat
 
 
 ---
----
 
 ## Abstract
 
 **INTRODUCTION**: Limbic-predominant age-related TAR DNA-binding protein 43 (TDP-43) encephalopathy (LATE) is a recently defined neurodegenerative disease. Currently, there is no effective way for prognosis of time to stage-specific future conversions at an individual level.
 
-METHODS: After using the Kaplan-Meier estimation and Log-rank test to confirm the heterogeneity of LATE progression, we developed a deep learning-based approach to assess the stage-specific probabilities of time to LATE conversions for different subjects.
+**METHODS**: After using the Kaplan-Meier estimation and Log-rank test to confirm the heterogeneity of LATE progression, we developed a deep learning-based approach to assess the stage-specific probabilities of time to LATE conversions for different subjects.
 
-RESULTS: Our approach could accurately estimate the disease incidence and transition to next stages: the concordance index was at least 82% and the integrated Brier score was less than 0.14. Moreover, we identified the top 10 important predictors for each disease conversion scenario to help explain the estimation results, which were clinicopathologically meaningful and most were also statistically significant.
+**RESULTS**: Our approach could accurately estimate the disease incidence and transition to next stages: the concordance index was at least 82% and the integrated Brier score was less than 0.14. Moreover, we identified the top 10 important predictors for each disease conversion scenario to help explain the estimation results, which were clinicopathologically meaningful and most were also statistically significant.
 
-DISCUSSION: Our study has the potential to provide individualized assessment for future time courses of LATE conversions years before their actual occurrences.
+**DISCUSSION**: Our study has the potential to provide individualized assessment for future time courses of LATE conversions years before their actual occurrences.
 
 
 ## Prerequisites
