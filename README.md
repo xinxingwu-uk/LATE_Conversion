@@ -19,16 +19,7 @@ Codes are here
 
 ## Abstract
 
-INTRODUCTION: Limbic-predominant age-related TAR DNA-binding protein 43 (TDP-43) encephalopathy (LATE) is a recently defined neurodegenerative disease. Currently, there is no effective way for prognosis of time to stage-specific future conversions at an individual level.
-
-METHODS: After using the Kaplan-Meier estimation and Log-rank test to confirm the heterogeneity of LATE progression, we developed a deep learning-based approach to assess the stage-specific probabilities of time to LATE conversions for different subjects.
-
-RESULTS: Our approach could accurately estimate the disease incidence and transition to next stages: the concordance index was at least 82% and the integrated Brier score was less than 0.14. Moreover, we identified the top 10 important predictors for each disease conversion scenario to help explain the estimation results, which were clinicopathologically meaningful and most were also statistically significant.
-
-DISCUSSION: Our study has the potential to provide individualized assessment for future time courses of LATE conversions years before their actual occurrences.
-
-![image](https://user-images.githubusercontent.com/75950504/196515995-89eb724a-0025-4b94-85cb-469d53239b52.png)
-
+Dementia patients may present with different symptoms, progress at different rates at different stages of the disease, and respond differently to interventions. Therefore, it is critical to understand the heterogeneous characteristics at different stages and develop an ability to reliably assess the dementia onset and progression. In this study, we confirmed the population-level progression rates and the heterogeneity of LATE progression, and then we developed a stage-stratified approach by leveraging machine learning to probabilistically estimate the time courses of LATE stage-specific progression for different individuals. Our study has the potential to provide an individualized assessment of future time to LATE disease conversions years before their actual occurrences.
 
 ## Prerequisites
 
