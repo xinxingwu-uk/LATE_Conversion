@@ -65,7 +65,8 @@ Some resutls:
 
 **If you find this code useful in your research, please consider citing our work:**
 
-Xinxing Wu, Chong Peng, Peter T. Nelson, and Qiang Cheng. Deep learning algorithm reveals probabilities of stage-specific time to conversion in individuals with neurodegenerative disease LATE. Alzheimer's & Dementia: Translational Research & Clinical Interventions, 8 (1):e12363, 2022. https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/trc2.12363
+Xinxing Wu, Chong Peng, Peter T. Nelson, and Qiang Cheng. Deep learning algorithm reveals probabilities of stage-specific time to conversion in individuals with neurodegenerative disease LATE. Alzheimer's & Dementia: Translational Research & Clinical Interventions, 8 (1):e12363, 2022. 
+https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/trc2.12363
 
 ---
 ## History
