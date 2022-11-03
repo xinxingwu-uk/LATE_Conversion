@@ -74,6 +74,9 @@ https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/trc2.12363
 
 * Version 1.0 (October, 2022)
 
+* Updated README.md (November, 2022)
+
+
 
 ---
 ## License
