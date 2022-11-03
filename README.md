@@ -1,5 +1,7 @@
 # Deep learning algorithm reveals probabilities of stage-specific time to conversion in individuals with neurodegenerative disease LATE (Alzheimer's & Dementia: Translational Research & Clinical Interventions 2022)
 
+Paper link: https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/trc2.12363
+
 Dementia patients may present with different symptoms, progress at different rates at different stages of the disease, and respond differently to interventions. Therefore, it is critical to understand the heterogeneous characteristics at different stages and develop an ability to reliably assess the dementia onset and progression. In this study, we confirmed the population-level progression rates and the heterogeneity of LATE progression, and then we developed a stage-stratified approach by leveraging machine learning to probabilistically estimate the time courses of LATE stage-specific progression for different individuals. Our study has the potential to provide an individualized assessment of future time to LATE disease conversions years before their actual occurrences.
 
 ---
@@ -63,7 +65,7 @@ Some resutls:
 
 **If you find this code useful in your research, please consider citing our work:**
 
-Xinxing Wu, Chong Peng, Peter T. Nelson, and Qiang Cheng. Deep learning algorithm reveals probabilities of stage-specific time to conversion in individuals with neurodegenerative disease LATE. Alzheimer's & Dementia: Translational Research & Clinical Interventions, 2022.
+Xinxing Wu, Chong Peng, Peter T. Nelson, and Qiang Cheng. Deep learning algorithm reveals probabilities of stage-specific time to conversion in individuals with neurodegenerative disease LATE. Alzheimer's & Dementia: Translational Research & Clinical Interventions, 8 (1):e12363, 2022. https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/trc2.12363
 
 ---
 ## History
